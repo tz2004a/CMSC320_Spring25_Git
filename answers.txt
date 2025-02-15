@@ -10,3 +10,9 @@ Answer: Data science can be used in the medical field such as for analyzing canc
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging keeps the commit history unlike Rebasing which rewrites it.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning about NLP and neural networks.
+
+
